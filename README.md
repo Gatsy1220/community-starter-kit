@@ -4,7 +4,7 @@ A GitHub App built with [probot](https://github.com/probot/probot) that celebrat
 
 ## What it does
 
-Welcome new users with maintainer defined comments the first time your users:
+Hi there! and welcome to my awesome repository. There is no existing project to contribute to just yet but stay tuned!
 - Create a new issue
 - Open a new pull request
 - Merge their first pull request
