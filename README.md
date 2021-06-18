@@ -5,9 +5,9 @@ A GitHub App built with [probot](https://github.com/probot/probot) that celebrat
 ## What it does
 
 Hi there! and welcome to my awesome repository. There is no existing project to contribute to just yet but stay tuned!
-- Create a new issue
-- Open a new pull request
-- Merge their first pull request
+- Some fun things to do will be added
+- You will probably submit a pull request or two
+- There will me some branching and merging too
 
 ## Getting started
 
